@@ -26,7 +26,7 @@ Before running the application, you'll need the following:
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/chat-application.git
+git clone https://github.com/trent130/chat-app.git
 
 2. Navigate to the project directory:
 
