@@ -1,0 +1,22 @@
+{
+    "user123": {
+        "notifications": {
+            "sound_enabled": true,
+            "desktop_notifications": true
+        },
+        "display": {
+            "theme": "light",
+            "font_size": 14
+        }
+    },
+    "user456": {
+        "notifications": {
+            "sound_enabled": false,
+            "desktop_notifications": true
+        },
+        "display": {
+            "theme": "dark",
+            "font_size": 16
+        }
+    }
+}
